@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+/target
+.classpath
+.settings
+.project
+alf_data_dev
